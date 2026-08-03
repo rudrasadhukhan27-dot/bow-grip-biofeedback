@@ -5,6 +5,8 @@ An open-source wearable that continuously measures violin bow-grip force, forear
 
 This repository contains the complete hardware design, firmware, logging software, experimental protocol, pre-registration, analysis code, and results of a 33-session single-subject study conducted with the device.
 
+![The wearable in playing position](images/device_in_hand.jpg)
+
 ---
 
 ## Why this exists
@@ -18,6 +20,8 @@ The study answers the first question clearly, the second one negatively, and the
 ## Key findings (summary)
 
 Across 33 playing sessions by a single violinist, in a pre-registered A-B-A-B reversal design with a transfer test:
+
+![Overgrip across all phases](images/phase_results.png)
 
 | Phase | Haptic feedback | Overgrip (% of playing time) |
 |---|---|---|
@@ -38,6 +42,9 @@ Full details in [`RESULTS.md`](RESULTS.md).
 ---
 
 ## Hardware
+
+![Electronics in the printed enclosure](images/electronics.jpg)
+![EMG electrode placement on the forearm extensors](images/electrodes.jpg)
 
 ### Bill of materials
 
