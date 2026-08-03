@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Bow-Grip Biofeedback: An Open Wearable for Measuring Violin Bow-Hold Tension"
+message: "If you use this hardware, software, or data, please cite it as below."
+type: software
+authors:
+  - family-names: Sadhukhan
+    given-names: Rudra
+abstract: >-
+  An open-source ESP32-based wearable that continuously measures violin
+  bow-grip force, forearm EMG, and bow motion, with optional real-time
+  haptic feedback. Includes firmware, logging software, 3D-printable
+  enclosure, experimental protocol, pre-registration, analysis code, and
+  results of a 33-session single-subject A-B-A-B reversal study.
+keywords:
+  - biofeedback
+  - wearable sensors
+  - music performance
+  - electromyography
+  - playing-related musculoskeletal disorders
+  - single-case experimental design
+license: MIT
