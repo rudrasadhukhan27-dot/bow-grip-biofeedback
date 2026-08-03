@@ -1,4 +1,5 @@
 # Bow-Grip Biofeedback: An Open Wearable for Measuring Violin Bow-Hold Tension
+[![DOI](https://zenodo.org/badge/1322029635.svg)](https://doi.org/10.5281/zenodo.21778241)
 
 An open-source wearable that continuously measures violin bow-grip force, forearm muscle activation, and bow motion, and can deliver real-time haptic feedback when grip exceeds a personalised threshold. Built around an ESP32 and off-the-shelf sensors for roughly ₹4,000 / ~US$50 in parts.
 
